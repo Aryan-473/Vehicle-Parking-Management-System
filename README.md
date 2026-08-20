@@ -90,7 +90,4 @@ http://localhost/Vehicle-Parking-Management-System/vpms/
 
 Licensed under the **MIT License** — free to use and modify with attribution.
 
-## 👨‍💻 Contributors
 
-- **Milind Chavan** – Project Lead & Developer
-- Team Members – UI/UX, Database, Documentation
